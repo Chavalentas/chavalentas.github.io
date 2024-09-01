@@ -61,3 +61,21 @@ Educational background:
 ![Xamarin.Forms](https://img.shields.io/badge/xamarin.forms-darkviolet?style=for-the-badge)
 ![Neo4j](https://img.shields.io/badge/neo4j-lightgreen?style=for-the-badge&logo=neo4j)
 ![RethinkDB](https://img.shields.io/badge/rethinkdb-green?style=for-the-badge)
+
+
+## Check out my projects (coming soon)
+* **Contact tracing application:** (link coming soon)
+* **Diary entries management application:** (link coming soon)
+* **Health monitoring application:** (link coming soon)
+* **Company rating application:** (link coming soon)
+* **URL shortening tool:** (link coming soon)
+* **REST API generator application:** (link coming soon)
+* **Subtitle automation tool:** (link coming soon)
+* **Spotify recommendation engine:** (link coming soon)
+* **Data analysis project:** (link coming soon)
+* **Directory information tool:** (link coming soon)
+* **Tic-tac-toe, the console PC game:** (link coming soon)
+* **Hangman, the console PC game:** (link coming soon)
+* **Snake, the console PC game:** (link coming soon)
+* **Visual compiler:** (link coming soon)
+
