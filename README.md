@@ -2,7 +2,7 @@
 <p align="center">Welcome to my webpage!</p>
 
 <div align="center">
-   <img src="img/profile_photo.png">
+   <img src="img/profile_photo.png" width=200 height=200>
 </div>
 
 ## About me
