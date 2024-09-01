@@ -1,6 +1,10 @@
 <h1 align="center">Stefan Chvala</h1>
 <p align="center">Welcome to my webpage!</p>
 
+<div align="center">
+   <img src="img/profile_photo.png">
+</div>
+
 ## About me
 Hello 👋, my name is Stefan and I live in Austria.
 During my studies at the FH Wiener Neustadt and during my internship, I was able to learn many useful skills that I believe are in high demand in today's IT world.
