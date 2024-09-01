@@ -19,6 +19,11 @@ Here are my skills:
 * **Web frameworks:** Angular.js, React.js, Streamlit
 * **Databases:** Microsoft SQL Server, PostgreSQL, Neo4j, MongoDB, RethinkDB, Redis
 
+<br>
+Educational background:
+* **2016-2020**: BRG Gröhrmühlgasse (graduation certificate: Matura)
+* **2020-2023**: FH Wiener Neustadt (graduation certificate: Bachelor of Science in Engineering)
+
 ## Used tools and frameworks
 ![.NET](https://img.shields.io/badge/.NET-violet?style=for-the-badge&logo=.NET) 
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-violet?style=for-the-badge&logo=.NET) 
