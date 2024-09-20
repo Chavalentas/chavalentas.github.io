@@ -22,7 +22,7 @@ Here are my skills:
 <br>
 Educational background:
 * **2016-2020**: BRG Gröhrmühlgasse (graduation certificate: Matura)
-* **2020-2023**: FH Wiener Neustadt (graduation certificate: Bachelor of Science in Engineering)
+* **2020-2023**: FH Wiener Neustadt - Computer Science (graduation certificate: Bachelor of Science in Engineering)
 
 ## Used tools and frameworks
 ![.NET](https://img.shields.io/badge/.NET-violet?style=for-the-badge&logo=.NET) 
