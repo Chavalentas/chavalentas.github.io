@@ -14,7 +14,7 @@ My studies and my own interests have given me a lot of knowledge in the field of
 Here are my skills:
 
 * **Languages and tools:** C#, JavaScript, TypeScript, HTML, CSS, Prolog, Python, R, T-SQL, PL/pgSQL, Powershell
-* **Desktop and mobile frameworks:** WPF, .NET MAUI, Xamarin Forms (all .NET)
+* **Desktop and mobile frameworks:** WPF, .NET MAUI, Xamarin.Forms (all .NET)
 * **Backend frameworks:** Node.js, Express, Node-RED
 * **Web frameworks:** Angular.js, React.js, Streamlit
 * **Databases:** Microsoft SQL Server, PostgreSQL, Neo4j, MongoDB, RethinkDB, Redis
